@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Rectory Management System",
+  "description": "A comprehensive system for managing parish records, events, and finances. It allows for visitor access to book appointments and view public information, with full-featured access for authenticated staff and priests.",
+  "requestFramePermissions": []
+}
